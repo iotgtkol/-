@@ -2,8 +2,7 @@
                     # 个人简历
 =========================================================
 
-姓名 ： 刘维   性别： 男                           <img src="https://iotgtkol.github.io/liuwei/iotgtkol.jpg" width='100px'/>
-
+姓名 ： 刘维   性别： 男                           			<img src="https://iotgtkol.github.io/liuwei/iotgtkol.jpg" width='100px'/>
 
 手机: 18623653375 (微信同号)    
 Email : 1450410326@qq.com  
